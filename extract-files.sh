@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=msm8937_32go_i32
+DEVICE=msm8937_32go_nd01
 VENDOR=xtc
 
 # Load extract_utils and do some sanity checks
